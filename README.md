@@ -9,7 +9,7 @@ And relays in the "off" state behave the same as in the "on" state, make a 0.5 s
 # Connection
 Access the serial interface by soldering wiring to the labeled solder pads (3V3, ERX, ETX, GND) are available on the relay mounted side of the PCB. Note: use the ERX and ETX pins, not the two marked RX/TX. 
 In this connection image, I used 5v instead of 3V3 because Sonoff RE5V1C have an inbuild LM1117 voltage regulator. which can deliever up to 800-mA, 3v3.
-Flashing ESP8285 i used FTDI FT232RL.
+To Program the ESP8285 i used FTDI FT232RL.
 
 ![sonoff connection](https://user-images.githubusercontent.com/77229506/110124905-098bea00-7e06-11eb-8299-4438df0a30cc.jpg)
 
