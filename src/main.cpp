@@ -17,11 +17,11 @@
 #include <SinricPro.h>
 #include <SinricProSwitch.h>
 
-#define WIFI_SSID         "ransack YOU!"    
-#define WIFI_PASS         "lovehouse"
-#define APP_KEY           "173119d3-9416-4eb6-a223-7d15c22063b7"                                        // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "0c4a78ce-6e36-454e-88bf-ff6758d64a7d-7d0b3282-ea06-4695-986f-fcc0c153fa27"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define SWITCH_ID         "6040dd254392c87c6c40f03e"                                                    // Should look like "5dc1564130xxxxxxxxxxxxxx" 
+#define WIFI_SSID         "YOUR-WIFI-SSID"    // your own wifi network ssid
+#define WIFI_PASS         "YOUR-WIFI-PASS"    // your wifi network password
+#define APP_KEY           "YOUR-APP-KEY"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "YOUR-APP-SECRET"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define SWITCH_ID         "YOUR-DEVICE-ID"    // Should look like "5dc1564130xxxxxxxxxxxxxx"
 
 
 #define BAUD_RATE          9600       
