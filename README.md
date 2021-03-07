@@ -1,6 +1,8 @@
 # sonoff-work-as-a-push-button
 Sonoff RE5V1C 5V (Based on ESP8285), work as a push button, powered by SinricPro library(https://github.com/sinricpro)
 
+Project video: https://youtu.be/FY0eiMJZgkE
+
 
 # Working
 In this project sonoff realy work as a "push button switch" with an "on" and "off" position. 
