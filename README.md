@@ -22,4 +22,8 @@ Turn on and off an oil heater using google home or assistance
 ![heater](https://user-images.githubusercontent.com/77229506/110241355-ad56d080-7f93-11eb-83cb-77bf0fe1e415.jpg)
 
 
+Please see the Hardware Preparation page for general instructions.
+https://user-images.githubusercontent.com/631241/71563034-6cd10c80-2add-11ea-835a-da65c8009632.jpg
+
+
 
